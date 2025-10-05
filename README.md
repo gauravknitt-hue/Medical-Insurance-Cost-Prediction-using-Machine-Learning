@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is **Project 11** from the Machine Learning Project Series by Siddhardhan. The goal of this project is to build and evaluate a Machine Learning model to **predict an individual's medical insurance charges** based on personal and demographic features.
+The goal of this project is to build and evaluate a Machine Learning model to **predict an individual's medical insurance charges** based on personal and demographic features.
 
 ---
 
@@ -78,9 +78,4 @@ The entire process is broken down into the following stages:
 
 ---
 
-## 🎥 Source and Reference
 
-This project is implemented following the tutorial by **Siddhardhan**:
-
-* **Video:** [Project 11. Medical Insurance Cost Prediction using Machine Learning with Python | ML Projects](https://www.youtube.com/watch?v=ntBa7YKc9XM)
-* **Channel:** Siddhardhan
